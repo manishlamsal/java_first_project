@@ -345,7 +345,7 @@ public class Main {
 
 
                 default:
-                System.out.println("Your choices is wrong");
+                System.out.println("Your choices is wrongs");
 
                 }
 
